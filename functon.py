@@ -11,7 +11,7 @@ myfunc()    """
 def fun():
     x="fantastic"#local varible
     print("Python is "+x)
-
+ 
 fun()
 print("Python is "+x)"""
 
