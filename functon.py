@@ -21,4 +21,4 @@ def myfun():
     global x#global variable
     x="fantastic" 
 myfun()
-print("Python is"+x)    
+print("Python is"+x)     
